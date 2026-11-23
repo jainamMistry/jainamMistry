@@ -153,7 +153,7 @@ I also work with frontend technologies such as React, JavaScript, HTML, and CSS 
 
 🔗 [Live Project](https://audit.maareva.co.in/)
 
-- Developed a production-grade audit management platform serving 6,500+ Chartered Accountants (CAs) and assistants.
+- Developed a production-grade audit management platform serving 200+ Chartered Accountants (CAs) and assistants.
 - Digitalized audit, reporting, billing, and payment workflows.
 - Built RESTful APIs and RBAC for audit assignments, execution, report generation, approvals, and payment management.
 - Implemented Redis caching for frequently accessed audit data, dashboards, and workflow metrics.
@@ -196,7 +196,7 @@ Bachelor of Engineering — Information Technology
 
 ## 🏆 Achievements
 
-- 🧩 Solved 100+ Data Structures and Algorithms problems across LeetCode and GeeksforGeeks.
+- 🧩 Solved 150+ Data Structures and Algorithms problems across LeetCode and GeeksforGeeks.
 - ⭐ 4-Star Coder on HackerRank.
 
 <p>
